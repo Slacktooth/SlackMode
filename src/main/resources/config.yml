@@ -1,0 +1,9 @@
+### This is the configuration file for the "SlackMode" plugin written by slacktooth.
+### If you'd like to show support by sending in a donation, please donate to an animal charity of your choice instead.
+
+
+# This message is sent when a player does not have permission to perform the /slackmode command.
+NO_PERMISSION: '&4You do not have permission to perform this command.'
+
+# This message is sent when a player leaves slack mode.
+LEFT_SLACKMODE: '&cSlackMode &7// &aYou have successfully left slack mode.'

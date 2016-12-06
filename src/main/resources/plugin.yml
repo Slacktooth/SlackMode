@@ -1,0 +1,5 @@
+name: SlackMode
+main: me.slacktooth.slackmode.SlackMode
+version: 1.0
+author: slacktooth
+
